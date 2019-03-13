@@ -1,1 +1,1 @@
-# laravel-vue-roject
+# laravel-vue-project
